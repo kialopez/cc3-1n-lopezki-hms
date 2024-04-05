@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\cc3-1n-lopezki-hms\obj\Debug\net8.0\cc3-1n-lopezki-hms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\cc3-1n-lopezki-hms\obj\Debug\net8.0\cc3-1n-lopezki-hms.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\cc3-1n-lopezki-hms\obj\Debug\net8.0\cc3-1n-lopezki-hms.AssemblyInfo.cs
+C:\Users\Admin\source\repos\cc3-1n-lopezki-hms\obj\Debug\net8.0\cc3-1n-lopezki-hms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\cc3-1n-lopezki-hms\bin\Debug\net8.0\cc3-1n-lopezki-hms.exe
+C:\Users\Admin\source\repos\cc3-1n-lopezki-hms\bin\Debug\net8.0\cc3-1n-lopezki-hms.deps.json
+C:\Users\Admin\source\repos\cc3-1n-lopezki-hms\bin\Debug\net8.0\cc3-1n-lopezki-hms.runtimeconfig.json
+C:\Users\Admin\source\repos\cc3-1n-lopezki-hms\bin\Debug\net8.0\cc3-1n-lopezki-hms.dll
+C:\Users\Admin\source\repos\cc3-1n-lopezki-hms\bin\Debug\net8.0\cc3-1n-lopezki-hms.pdb
+C:\Users\Admin\source\repos\cc3-1n-lopezki-hms\obj\Debug\net8.0\cc3-1n-lopezki-hms.dll
+C:\Users\Admin\source\repos\cc3-1n-lopezki-hms\obj\Debug\net8.0\refint\cc3-1n-lopezki-hms.dll
+C:\Users\Admin\source\repos\cc3-1n-lopezki-hms\obj\Debug\net8.0\cc3-1n-lopezki-hms.pdb
+C:\Users\Admin\source\repos\cc3-1n-lopezki-hms\obj\Debug\net8.0\cc3-1n-lopezki-hms.genruntimeconfig.cache
+C:\Users\Admin\source\repos\cc3-1n-lopezki-hms\obj\Debug\net8.0\ref\cc3-1n-lopezki-hms.dll

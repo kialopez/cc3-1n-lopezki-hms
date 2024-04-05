@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "cc3-1n-lopezki-hms/1.0.0": {
+        "runtime": {
+          "cc3-1n-lopezki-hms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cc3-1n-lopezki-hms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
